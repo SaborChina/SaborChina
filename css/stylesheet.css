@@ -3714,3 +3714,8 @@ input:-internal-autofill-selected {
     height: 88px;
   }
 }
+
+.col-lg-5{
+  margin-left: 30%;
+  align-items: center;
+}

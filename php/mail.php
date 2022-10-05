@@ -20,7 +20,7 @@ require './phpmailer/src/SMTP.php';
   // Receiver's Email
 --------------------------------------------- */
 
-$toEmail = "michaelngcen@yahoo."; // Replace Your Email Address
+$toEmail = "michaelngcen@yahoo.com"; // Replace Your Email Address
 
 
 /* --------------------------------------------
@@ -28,7 +28,7 @@ $toEmail = "michaelngcen@yahoo."; // Replace Your Email Address
 --------------------------------------------- */
 
 $fromEmail = "no-reply@website.com";  // Replace Company's Email Address (preferably currently used Domain Name)
-$fromName = "Company Name"; // Replace Company Name
+$fromName = "Sabor China"; // Replace Company Name
 
 
 /* --------------------------------------------
